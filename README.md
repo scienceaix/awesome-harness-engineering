@@ -37,6 +37,7 @@
 - [PostTrainBench](https://github.com/google-deepmind/posttrainbench) - Evaluates whether agents can autonomously post-train base LLMs against 7 strict benchmarks within fixed H100 compute constraints.
 - [Stripe Agent Benchmark](https://github.com/stripe/agent-benchmark) - End-to-end benchmark for agents executing real-world cross-domain glue work, API integration, and database state management.
 - [DeepEval](https://github.com/confident-ai/deepeval) - Platform for AI quality observability, automated human feedback collection, and A/B testing of harness performance and token efficiency.
+- [ax](https://github.com/Necmttn/ax) - Local telemetry graph for coding-agent sessions, tool calls, skills, costs, and workflow recall.
 
 ## Enterprise Playbooks & Specifications
 *How organizations like Stripe, Shopify, and Block actually deploy agents to production without breaking their architecture.*
