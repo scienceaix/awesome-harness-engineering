@@ -35,6 +35,7 @@
 
 - [EleutherAI LM Evaluation Harness (v0.4.9.1)](https://github.com/EleutherAI/lm-evaluation-harness) - The industry standard. Features support for multi-modal tasks, vLLM acceleration, and advanced regex post-processing for Llama/Qwen/Gemma evaluations.
 - [PostTrainBench](https://github.com/google-deepmind/posttrainbench) - Evaluates whether agents can autonomously post-train base LLMs against 7 strict benchmarks within fixed H100 compute constraints.
+- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - Live-web benchmark for browser and computer-use agents, covering 283 everyday tasks across 163 websites with request interception and five execution-evidence layers. [Paper](https://arxiv.org/abs/2604.08523) · [Project](https://claw-bench.com)
 - [Stripe Agent Benchmark](https://github.com/stripe/agent-benchmark) - End-to-end benchmark for agents executing real-world cross-domain glue work, API integration, and database state management.
 - [DeepEval](https://github.com/confident-ai/deepeval) - Platform for AI quality observability, automated human feedback collection, and A/B testing of harness performance and token efficiency.
 
