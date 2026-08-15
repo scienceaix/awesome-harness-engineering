@@ -24,6 +24,7 @@
 ## Core Runtimes & Agentic OS
 *Tools that provide the physical scaffolding, memory management, and execution orchestration for autonomous agents.*
 
+- [Dr. Claw](https://github.com/OpenLAIR/dr-claw) - Open-source research-agent workspace that orchestrates Claude Code, Gemini CLI, Codex, and OpenRouter through a staged survey-to-publication pipeline.
 - [IHR (In-Loop Harness Runtime)](https://github.com/example/ihr) - An in-loop LLM runtime designed to directly interpret Natural-Language Agent Harnesses (NLAHs), cleanly separating execution from logic.
 - [OpenDev](https://github.com/langchain-ai/opendev) - Advanced harness patterns optimized strictly for Levels 1-2 verifiable coding tasks.
 - [OpenClaw](https://github.com/example/openclaw) - *(Use with extreme caution)* The viral, local-first AI agent runtime that highlighted the critical need for strict harness security and multi-user isolation.
