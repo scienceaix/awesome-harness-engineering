@@ -29,6 +29,7 @@
 - [OpenClaw](https://github.com/example/openclaw) - *(Use with extreme caution)* The viral, local-first AI agent runtime that highlighted the critical need for strict harness security and multi-user isolation.
 - [NemoClaw](https://github.com/NVIDIA/nemoclaw) - Nvidia's enterprise-hardened fork of OpenClaw featuring kernel-level sandboxing, deterministic routers, and zero-trust execution.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - The Model Context Protocol implementation used by Anthropic for deterministic, adversarial QA and UI evaluation within a multi-agent harness loop.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Local-first, self-hosted agent runtime with persistent sessions, MCP tools and governance, credentials, memory, artifacts, audit/replay, and optional Docker/Kubernetes/worker execution backends.
 
 ## Evaluation & Benchmarking
 *Systems to empirically measure agent capability, alignment, architectural compliance, and cognitive progression.*
