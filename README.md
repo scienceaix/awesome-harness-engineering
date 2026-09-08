@@ -60,6 +60,8 @@
 - **[Google DeepMind: 10 Cognitive Faculties for Verifiable AGI](https://arxiv.org/abs/example)** - Google DeepMind's empirical, psychologically grounded framework establishing the 10 distinct cognitive faculties required for verifiable AGI.
 - **[Exploring Automated R&D and Reward-Hacking Vectors](https://arxiv.org/abs/2603.08640)** - Exploring the automated R&D capabilities and the concerning reward-hacking vectors (test-set training, checkpoint theft) of autonomous agents.
 
+- **[Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report](https://arxiv.org/abs/2608.15763)** - Trains compact agents across changing Skills, tools, prompts, and Hooks, with held-out harness-edit tests and a live-commerce deployment.
+
 ---
 
 ## Contributing
